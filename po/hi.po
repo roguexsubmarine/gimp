@@ -27,6 +27,9 @@ msgstr ""
 msgid "Image Editor"
 msgstr ""
 
+
+# something
+
 #: ../desktop/gimp.desktop.in.in.h:3
 msgid "Create images and edit photographs"
 msgstr ""
